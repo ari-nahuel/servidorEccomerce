@@ -34,5 +34,113 @@
       "/static/img/hero2.jpg"
     ],
     "detalle": "Entregas a América, Europa y Asia con seguimiento internacional y gestión aduanera completa."
+  },
+  {
+    "id": 4,
+    "nombre": "Envío CABA / AMBA",
+    "descripcion": "Servicio de entrega en el día dentro de Capital y Gran Buenos Aires.",
+    "precio": 2500,
+    "fotos": [
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg"
+    ],
+    "detalle": "Entregas rápidas en zonas CABA y AMBA, incluyendo seguimiento en tiempo real y confirmación por WhatsApp."
+  },
+  {
+    "id": 5,
+    "nombre": "Envío Nacional",
+    "descripcion": "Envíos a todo el país mediante correo certificado.",
+    "precio": 4500,
+    "fotos": [
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg"
+    ],
+    "detalle": "Cobertura completa dentro de Argentina. Tiempo estimado de entrega: 3 a 7 días hábiles según destino."
+  },
+  {
+    "id": 6,
+    "nombre": "Envío Internacional",
+    "descripcion": "Envíos fuera del país con seguimiento y aduana incluida.",
+    "precio": 12000,
+    "fotos": [
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg"
+    ],
+    "detalle": "Entregas a América, Europa y Asia con seguimiento internacional y gestión aduanera completa."
+  },
+  {
+    "id": 7,
+    "nombre": "Envío CABA / AMBA",
+    "descripcion": "Servicio de entrega en el día dentro de Capital y Gran Buenos Aires.",
+    "precio": 2500,
+    "fotos": [
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg"
+    ],
+    "detalle": "Entregas rápidas en zonas CABA y AMBA, incluyendo seguimiento en tiempo real y confirmación por WhatsApp."
+  },
+  {
+    "id": 8,
+    "nombre": "Envío Nacional",
+    "descripcion": "Envíos a todo el país mediante correo certificado.",
+    "precio": 4500,
+    "fotos": [
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg"
+    ],
+    "detalle": "Cobertura completa dentro de Argentina. Tiempo estimado de entrega: 3 a 7 días hábiles según destino."
+  },
+  {
+    "id": 9,
+    "nombre": "Envío Internacional",
+    "descripcion": "Envíos fuera del país con seguimiento y aduana incluida.",
+    "precio": 12000,
+    "fotos": [
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg"
+    ],
+    "detalle": "Entregas a América, Europa y Asia con seguimiento internacional y gestión aduanera completa."
+  },
+  {
+    "id": 10,
+    "nombre": "Envío CABA / AMBA",
+    "descripcion": "Servicio de entrega en el día dentro de Capital y Gran Buenos Aires.",
+    "precio": 2500,
+    "fotos": [
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg"
+    ],
+    "detalle": "Entregas rápidas en zonas CABA y AMBA, incluyendo seguimiento en tiempo real y confirmación por WhatsApp."
+  },
+  {
+    "id": 11,
+    "nombre": "Envío Nacional",
+    "descripcion": "Envíos a todo el país mediante correo certificado.",
+    "precio": 4500,
+    "fotos": [
+      "/static/img/hero2.jpg",
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg"
+    ],
+    "detalle": "Cobertura completa dentro de Argentina. Tiempo estimado de entrega: 3 a 7 días hábiles según destino."
+  },
+  {
+    "id": 12,
+    "nombre": "Envío Internacional",
+    "descripcion": "Envíos fuera del país con seguimiento y aduana incluida.",
+    "precio": 12000,
+    "fotos": [
+      "/static/img/hero3.jpg",
+      "/static/img/hero1.jpg",
+      "/static/img/hero2.jpg"
+    ],
+    "detalle": "Entregas a América, Europa y Asia con seguimiento internacional y gestión aduanera completa."
   }
 ]
